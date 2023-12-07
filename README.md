@@ -1,4 +1,7 @@
 ### Hi there 👋
+興趣:打球、聽音樂
+現職:輔仁大學
+系級:統計資訊學系一年級
 
 <!--
 **timm216/timm216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
