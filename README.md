@@ -1,7 +1,11 @@
 ### Hi there 👋
 興趣:打球、聽音樂
-現職:輔仁大學
-系級:統計資訊學系一年級
+經歷:榮富國小、中平國中、輔仁大學
+年齡:18
+生日:940216
+性別:男
+姓名:蔡宜庭
+
 
 <!--
 **timm216/timm216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
